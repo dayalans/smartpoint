@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employeeList>
+    <employee>
+        <employeeId>5</employeeId>
+        <employeeName>Harish</employeeName>
+        <employeeSalary>55000</employeeSalary>
+    </employee>
+    <employee>
+        <employeeId>2</employeeId>
+        <employeeName>subramaniam</employeeName>
+        <employeeSalary>35000</employeeSalary>
+    </employee>
+    <employee>
+        <employeeId>1</employeeId>
+        <employeeName>dayalan</employeeName>
+        <employeeSalary>25000</employeeSalary>
+    </employee>
+    <employee>
+        <employeeId>3</employeeId>
+        <employeeName>dinesh</employeeName>
+        <employeeSalary>15000</employeeSalary>
+    </employee>
+    <employee>
+        <employeeId>4</employeeId>
+        <employeeName>Ram</employeeName>
+        <employeeSalary>11000</employeeSalary>
+    </employee>
+</employeeList>
